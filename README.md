@@ -9,6 +9,8 @@
 # Fun Part: How to use the app
 1. Clone the repo
 
+   https://github.com/mairura/JAVA-CHAT-APP.git
+
 2. Compile all files into the out/ folder
    
     - Compile : javac -d out ChatServer/ChatServer.java ChatClient/ChatClient.java ChatClientGUI/ChatClientGUI.java
@@ -19,13 +21,20 @@
        
 4. In a new terminal, run the GUI client
 
-     - java -cp out ChatClientGUI.ChatClientGUI
+     - Run : java -cp out ChatClientGUI.ChatClientGUI
 
 # Tip
-- You can many instances of the GUI to have many UI interactions to mimic many users in the chat app
+- You can run many instances of the GUI to have many UI interactions to mimic many users in the chat app
 
 # Note
 - This is just a starter chat app for in-house usage. Play around with it and reach out where I can improve on it. Thanks.
+
+# FOLLOW FOR UPDATES
+- Add sound effects
+- User Profiles
+- User Avatars
+- User Status Messages
+
 
 
          
